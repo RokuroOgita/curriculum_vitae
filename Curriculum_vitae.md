@@ -1,7 +1,11 @@
-# Curriculum vitae
-日本語↑
+# 職務経歴書 / Curriculum vitae
+日本語
 
-　　　↓English
+↑
+
+↓
+
+English
 
 |  名前  |  荻田　六郎  |
 | ---- | ---- |
@@ -12,12 +16,12 @@
 ## 概要
 
 大学ではデータ構造とアルゴリズムを専攻し、最適化経路の計算をC言語を用いて計算。
-新卒の就職ではエンジニアになることが出来なかったものの、趣味のプログラミングをオフを最大限活用しながら django を用いたウェブサイトの構築や、自然言語処理、クローリングを中心に実装してきました。
+新卒の就職ではエンジニアになることが出来なかったものの、アプリを作るのが好きだったので休日をを最大限活用しながら django を用いたウェブサイトの構築や、自然言語処理アプリケーション、クローリングアプリケーションを中心に実装してきました。
 
-2020 年に新卒入社した会社を退職し、独立。
+2020 年に新卒入社した会社を退職し、独立しました。
 
-自身の価値を最も発揮できるのは 0 -> 1 フェーズでの開発です。
-2020年以降、主に使用している言語は python3 で、Django x docker での開発を生業にしています。
+自身の価値を最も発揮できるのは 0 -> 1 フェーズでの開発だと思っています。
+2020 年以降、主に使用している言語は python3 で、Django x docker での開発を生業にしています。
 
 * python3 がコアスキル
 * 並列処理、非同期処理を活用したクローリングが得意
@@ -26,7 +30,7 @@
 ## 開発技術・強み
 ### 自身の強み
 * python3 に関する正しい知識
-* Promise/async&awaitでの非同期処理の理解
+* Promise / async & await での非同期処理の理解
 * docker を用いたコンテナ操作、デプロイ
 * AWS を用いたサーバー・データベース設計
 * MVT フレームワーク(おもに django ) を用いた開発知識
@@ -50,7 +54,7 @@
 | Design | bootstrap, Adobe premiere pro |
 | AWS | Route53, S3, CloudWatch, EC2, LightSail, RDS |
 | infrastructure | FTP server, docker, phpMyAdmin, MySQL, SQLite, Nginx, Apache, BurpSuit |
-| python3 | requests, numpy, pandas, django, transformers, keras, tweepy, selenium |
+| python3 | requests, numpy, pandas, django, transformers, pytorch, keras, tweepy, selenium |
 
 ### 開発ツール等
 |  分類  |  ツール名  |
@@ -67,7 +71,7 @@
 
 2021 年における開発実務
 
-django / AWS / docker を使用したウェブアプリ開発
+django / AWS / docker を使用したウェブアプリ開発<br>
 バックエンド ～ フロントまで全てを担当
 
 ### 2020 年
@@ -81,9 +85,9 @@ python3 / pyinstaller を用いた Windows 向けアプリケーションの開�
 
 ## 今後の目標や取り組みたい分野
 * 英語力の向上
-* 自社アプリケーションのUIの向上(chrome extension → django アプリケーションへの変更)
+* 自社アプリケーションのUIの向上( chrome extension → django アプリケーションへの変更)
 * インフラ周りの知識の獲得
-* 時間的・金銭的に余裕が出来たらいつか大学院に通ってOSそのものについて学びたい。
+* 時間的・金銭的に余裕が出来たらいつか大学院に通って OS そのものについて学びたい。
 
 # さいごに
 拙い職務経歴書ですが最後までお目通し頂き有難う御座います。<br>
