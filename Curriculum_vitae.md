@@ -29,8 +29,8 @@ English
 * python3 に関する正しい知識
 * Promise/async&awaitでの非同期処理の理解
 * docker を用いたコンテナ操作、デプロイ
-* AWS を用いたサーバー設計
-* MVT フレームワーク(django, flask) を用いた開発知識
+* AWS を用いたサーバー・データベース設計
+* MVT フレームワーク(おもに django ) を用いた開発知識
 * django / JavaScript をフルスクラッチで書くことができる
 * Debian 系の Linux OS を中心とした理解
 
@@ -39,15 +39,14 @@ English
 * GPT-2, GPT-3 を用いた自然言語処理アプリケーションの構築
 * requests, selenium 等を用いたクローリングアプリケーションの構築
 * docker を用いたプロジェクト管理
-* pyinstaller を用いた Windows 実行アプリケーションの構築
+* pyinstaller を用いた Windows 実行アプリケーション( .exe )の構築
 
 ### 実務レベルで使用可能な言語など
-* html5
 * python3
-* JavaScript(Node.js)
 
 ### 過去に実務で使用したフレームワーク・ライブラリの例
 | 言語 | フレームワーク・ライブラリ|
+| ---- | ---- |
 | JavaScript | jQuery, Node.js |
 | Design | bootstrap, Adobe premiere pro |
 | AWS | Route53, S3, CloudWatch, EC2, LightSail, RDS |
@@ -67,3 +66,26 @@ English
 ### 2021 年
 ### CEO at Matching Solution Inc.
 自社サービスの開発に取り組むとともに業務委託案件に携わる
+
+2021 年における開発実務
+django / AWS / docker を使用したウェブアプリ開発
+バックエンド ～ フロントまで全てを担当
+
+2020 年における開発実務
+python3 / django を利用したクローリングアプリの開発
+バックエンド ～ フロントまで全てを担当
+
+python3 / pyinstaller を用いた Windows 向けアプリケーションの開発
+全てを担当
+
+## 今後の目標や取り組みたい分野
+* 英語力の向上
+* 自社アプリケーションのUIの向上(chrome extension → django アプリケーションへの変更)
+* インフラ周りの知識の獲得
+* 時間的・金銭的に余裕が出来たらいつか大学院に通ってみたい。出来たら筑波。
+
+# さいごに
+拙い職務経歴書ですが最後までお目通し頂き有難う御座います。
+幸い私は人材会社での営業経験があるので、営業の方の悩みや、経営者の方の悩みも少ないですが耳にしたことがあります。
+なので社外向け・社内向け問わず、あまり表向きに出来ないような bot 作成等の仕事でも何でもやらせていただきます。
+私を頼ってくださる誰かの力になることができれば幸甚です。
