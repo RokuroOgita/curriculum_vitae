@@ -7,9 +7,8 @@ English
 |  名前  |  荻田　六郎  |
 | ---- | ---- |
 |  所在地  |  奈良  |
-| ---- | ---- |
-| 最終学歴 | 防衛大学校理工学部情報工学科 |
-| 開発の経験年数 | 2年 |
+| 最終学歴 | 防衛大学校 理工学部 情報工学科 |
+| 開発の経験年数 | 約 2 年 |
 
 ## 概要
 
@@ -49,11 +48,22 @@ English
 
 ### 過去に実務で使用したフレームワーク・ライブラリの例
 | 言語 | フレームワーク・ライブラリ|
-| ---- | ----|
 | JavaScript | jQuery, Node.js |
-| ---- | ----|
+| Design | bootstrap, Adobe premiere pro |
 | AWS | Route53, S3, CloudWatch, EC2, LightSail, RDS |
-| ---- | ---- |
 | infrastructure | FTP server, docker, phpMyAdmin, MySQL, SQLite, Nginx, Apache |
-| ---- | ----|
 | python3 | requests, numpy, pandas, django, transformers, keras, tweepy, selenium |
+
+### 開発ツール等
+|  分類  |  ツール名  |
+| ---- | ---- |
+| エディター | vim, nano, VSCode |
+| ターミナル | bash, zsh, xfce4-terminal, gnome-terminal, fish |
+| ウインドウマネージャー | gnome, xfce |
+| コミュニケーションツール | Google Meets, slack, zoom, LINE |
+| OS | Windows, Debian, Ubuntu, kali linux, CentOS, Mac |
+
+## 経歴
+### 2021 年
+### CEO at Matching Solution Inc.
+自社サービスの開発に取り組むとともに業務委託案件に携わる
