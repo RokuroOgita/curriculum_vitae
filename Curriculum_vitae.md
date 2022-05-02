@@ -50,7 +50,7 @@ English
 | JavaScript | jQuery, Node.js |
 | Design | bootstrap, Adobe premiere pro |
 | AWS | Route53, S3, CloudWatch, EC2, LightSail, RDS |
-| infrastructure | FTP server, docker, phpMyAdmin, MySQL, SQLite, Nginx, Apache |
+| infrastructure | FTP server, docker, phpMyAdmin, MySQL, SQLite, Nginx, Apache, BurpSuit |
 | python3 | requests, numpy, pandas, django, transformers, keras, tweepy, selenium |
 
 ### 開発ツール等
