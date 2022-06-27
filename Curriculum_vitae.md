@@ -32,7 +32,7 @@ django を用いたウェブサイトの構築や、自然言語処理アプリ�
 ## 開発技術・強み
 ### 自身の強み
 * python3 に関する正しい知識
-* Promise / async & await での非同期処理の理解
+* async & await での非同期処理の理解
 * docker を用いたコンテナ操作、デプロイ
 * AWS を用いたサーバー・データベース設計
 * MVT フレームワーク(おもに django ) を用いた開発知識
@@ -41,8 +41,8 @@ django を用いたウェブサイトの構築や、自然言語処理アプリ�
 
 ### 開発における実務経験等
 * Twitter API を用いたクローリング, bot作成
-* GPT-2, GPT-3 を用いた自然言語処理アプリケーションの構築
-* requests, selenium 等を用いたクローリングアプリケーションの構築
+* GPT-2 を用いた自然言語処理アプリケーションの構築(データ収集～追加学習のみ)
+* requests, selenium, aiohttp 等を用いたクローリングアプリケーションの構築
 * docker を用いたプロジェクト管理
 * pyinstaller を用いた Windows 実行アプリケーション( .exe )の構築
 
@@ -52,7 +52,7 @@ django を用いたウェブサイトの構築や、自然言語処理アプリ�
 ### 過去に実務で使用したフレームワーク・ライブラリの例
 | 言語 | フレームワーク・ライブラリ|
 | ---- | ---- |
-| JavaScript | jQuery, Node.js |
+| JavaScript | jQuery, Node.js, ReactJS |
 | Design | bootstrap, Adobe premiere pro |
 | AWS | Route53, S3, CloudWatch, EC2, LightSail, RDS |
 | infrastructure | FTP server, docker, phpMyAdmin, MySQL, SQLite, Nginx, Apache, BurpSuit |
@@ -64,7 +64,7 @@ django を用いたウェブサイトの構築や、自然言語処理アプリ�
 | エディター | vim, nano, VSCode |
 | ターミナル | bash, zsh, xfce4-terminal, gnome-terminal, fish |
 | ウインドウマネージャー | gnome, xfce |
-| コミュニケーションツール | Google Meets, slack, zoom, LINE |
+| コミュニケーションツール | Google Meets, slack, zoom, LINE, chatwork |
 | OS | Windows, Debian, Ubuntu, kali linux, CentOS, Mac |
 
 ## 経歴
